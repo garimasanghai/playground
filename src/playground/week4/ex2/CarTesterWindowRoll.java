@@ -3,7 +3,7 @@ package playground.week4.ex2;
 import playground.week4.ex2.Car;
 import playground.week4.ex2.Toyota;
 
-public class ClassTester1 
+public class CarTesterWindowRoll 
 {
 
 	public static void main(String[] args) 

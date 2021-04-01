@@ -1,7 +1,7 @@
-package playground.week4.ex2;
+package playground.week4.ex2caroutline;
 
-import playground.week4.ex2.Car;
-import playground.week4.ex2.Toyota;
+import playground.week4.ex2caroutline.Car;
+import playground.week4.ex2caroutline.Toyota;
 
 public class ClassTester1 
 {

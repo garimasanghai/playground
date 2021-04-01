@@ -1,6 +1,6 @@
 package playground.week4.ex2;
 
-public class CarTester4 {
+public class CarTesterSpeed {
 
 	public static void main(String[] args) 
 	{

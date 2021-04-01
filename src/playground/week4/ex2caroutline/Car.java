@@ -1,4 +1,4 @@
-package playground.week4.ex2;
+package playground.week4.ex2caroutline;
 
 public class Car {
 	private String name;

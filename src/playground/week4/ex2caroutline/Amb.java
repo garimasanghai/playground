@@ -1,6 +1,6 @@
-package playground.week4.ex2;
+package playground.week4.ex2caroutline;
 
-import playground.week4.ex1.Car;
+import playground.week4.ex2caroutline.Car;
 
 public class Amb extends Car {
 	public void sideWindow(boolean open) {
