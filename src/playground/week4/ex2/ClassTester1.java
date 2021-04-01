@@ -50,7 +50,7 @@ public class ClassTester1
 			result = cherryToyota.windowRoll(false);
 			System.out.println(result);
 			//give me true by rolling down
-			cherryToyota.windowDiaganostics();
+			cherryToyota.carDiaganostics();
 			
 			//define and declare a Custom data type
 			Toyota rohitToyota = new Toyota ();
@@ -88,7 +88,7 @@ public class ClassTester1
 			result = rohitToyota.windowRoll(false);
 			System.out.println(result);
 			//give me true by rolling down
-			rohitToyota.windowDiaganostics();
+			rohitToyota.carDiaganostics();
 
 			
 			Toyota kaminiToyota = new Toyota ();

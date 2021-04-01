@@ -13,8 +13,6 @@ buildNumber.properties
 
 
 # Eclipse
-.classpath
-.project
 .settings/
  
 # Intellij
